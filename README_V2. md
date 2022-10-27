@@ -1,0 +1,12 @@
+Overview:
+Developing adaptive therapy scheduling for lung cancer. In this depository our approach on the modeling lung cancer is on modeling non-small cell lung cancer dynamics using a Lotka–Volterra system of equations.
+
+Requirements:
+Julia (version 1.8.0) or newer
+Jupyter notebook
+
+Packages requirement:  
+DifferentialEquations.jl
+
+
+
